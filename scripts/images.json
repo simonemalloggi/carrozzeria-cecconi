@@ -1,0 +1,112 @@
+{
+  "_info": "Elenco immagini migrate da Wix. Lo script scripts/fetch_images.py le scarica una sola volta e genera le versioni ottimizzate in site/img/. Per aggiungere una foto nuova basta metterla in site/img/originali/ con il nome indicato in 'name' e lanciare lo script. Le voci con wix null sono foto fornite direttamente e già presenti in originali/.",
+  "base": "https://static.wixstatic.com/media/",
+  "images": [
+    {
+      "name": "logo",
+      "wix": "7dff4c_745f8ff872a049f9a9eb31dcd8f88880~mv2.png",
+      "logo": true
+    },
+    {
+      "name": "esterno",
+      "wix": "7dff4c_5f8c87920f3245748aec454511ca74e3~mv2.png"
+    },
+    {
+      "name": "capannone",
+      "wix": "7dff4c_459a01db5fd54658980b81615dd8e683~mv2.jpg"
+    },
+    {
+      "name": "team",
+      "wix": "7dff4c_903834e383944a028971375358d958e3~mv2.jpg"
+    },
+    {
+      "name": "team-mascotte",
+      "wix": "7dff4c_61294b79e01c40c6a31001d9848e933f~mv2.jpg"
+    },
+    {
+      "name": "accoglienza-1",
+      "wix": "7dff4c_7d9fc62f9c874272a198eea08fa9bfa1~mv2.jpg"
+    },
+    {
+      "name": "accoglienza-2",
+      "wix": "7dff4c_410f058eb2654cf98ba6b230b6fd35e3~mv2.jpg"
+    },
+    {
+      "name": "ufficio",
+      "wix": "7dff4c_c40e9cce86654c9d8d6b6cfa187feeae~mv2.jpg"
+    },
+    {
+      "name": "mascotte",
+      "wix": "7dff4c_3f0749a804ac47e58f9ec80071f93bcd~mv2.jpg"
+    },
+    {
+      "name": "officina-1",
+      "wix": "7dff4c_33d00f679af54b6fac6998d3318443a6~mv2.jpg"
+    },
+    {
+      "name": "cabina-verniciatura-1",
+      "wix": "7dff4c_b991abbcbf2147588b6037b8c5194646~mv2.jpg"
+    },
+    {
+      "name": "cabina-verniciatura-2",
+      "wix": "7dff4c_dd347ae79ac24a889675a55d1de99327~mv2.jpg"
+    },
+    {
+      "name": "banco-riscontro",
+      "wix": "7dff4c_8c32dc2bb13f4740a484b8fdc48c48dd~mv2.jpg"
+    },
+    {
+      "name": "sollevatori-1",
+      "wix": "7dff4c_52f26a5c87db482f93aa8ab50c132aa2~mv2.jpg"
+    },
+    {
+      "name": "sollevatori-2",
+      "wix": "7dff4c_307ce9f26a44466fbba44e9810be301a~mv2.jpg"
+    },
+    {
+      "name": "adas-1",
+      "wix": "7dff4c_15364fac6fab43fd910adb8ae8d713d6~mv2.jpg"
+    },
+    {
+      "name": "adas-2",
+      "wix": "7dff4c_0260d38dce2f4943b5b5ae96da35ee0f~mv2.jpg"
+    },
+    {
+      "name": "officina-2",
+      "wix": "7dff4c_050504b03a404ca984c21b363baa4462~mv2.jpg"
+    },
+    {
+      "name": "lavorazione-1",
+      "wix": "7dff4c_77da8b58bc8c413896af2674537b9cd0~mv2.jpg"
+    },
+    {
+      "name": "lavorazione-2",
+      "wix": "7dff4c_2a1c598f58cc44448d02aec9c9496405~mv2.jpg"
+    },
+    {
+      "name": "beestudio",
+      "wix": "7dff4c_5bc94fb08b58405fbcecab94e7a547ce~mv2.png",
+      "logo": true
+    },
+    {
+      "name": "esterno-ulivo",
+      "wix": null
+    },
+    {
+      "name": "officina-panoramica",
+      "wix": null
+    },
+    {
+      "name": "zona-preparazione",
+      "wix": null
+    },
+    {
+      "name": "facciata",
+      "wix": null
+    },
+    {
+      "name": "piazzale",
+      "wix": null
+    }
+  ]
+}

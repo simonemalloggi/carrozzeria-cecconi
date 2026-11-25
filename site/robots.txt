@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# ANTEPRIMA: alla messa online sostituire con robots.txt.online

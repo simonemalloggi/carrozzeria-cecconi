@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+Thumbs.db
+# estrazione completa da Google (nomi completi): resta in Dropbox, non nel repository pubblico
+scripts/recensioni-raw.json
